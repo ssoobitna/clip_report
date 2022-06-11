@@ -1,0 +1,34 @@
+{
+  "feedsList": [
+    {
+      "id": 4,
+      "feedsProfileUrl": "./images/eunjungPark/feeds-profile.png",
+      "userId": "eunJeong ",
+      "feedsImageUrl": "./images/eunjungPark/feeds-image.png",
+      "mineProfileUrl": "./images/eunjungPark/feeds-profile.png",
+      "likeUserId": "chunSig ",
+      "likeUserNum": "10명",
+      "commentTitText": "수호가 라이언을 좋아하는구나..!"
+    },
+    {
+      "id": 5,
+      "feedsProfileUrl": "./images/eunjungPark/feeds-profile.png",
+      "userId": "eunJeong22 ",
+      "feedsImageUrl": "./images/eunjungPark/feeds-image.png",
+      "mineProfileUrl": "./images/eunjungPark/feeds-profile.png",
+      "likeUserId": "chunSig22 ",
+      "likeUserNum": "20명",
+      "commentTitText": "수호가 라이언을 좋아하는구나..!"
+    },
+    {
+      "id": 6,
+      "feedsProfileUrl": "./images/eunjungPark/feeds-profile.png",
+      "userId": "eunJeong33 ",
+      "feedsImageUrl": "./images/eunjungPark/feeds-image.png",
+      "mineProfileUrl": "./images/eunjungPark/feeds-profile.png",
+      "likeUserId": "chunSig33 ",
+      "likeUserNum": "30명",
+      "commentTitText": "수호가 라이언을 좋아하는구나..!"
+    }
+  ]
+}
